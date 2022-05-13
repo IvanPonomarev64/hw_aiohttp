@@ -1,4 +1,3 @@
-# from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy import func
 import uuid
 from aiohttp import web
